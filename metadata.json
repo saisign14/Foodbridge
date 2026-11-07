@@ -1,0 +1,6 @@
+{
+  "name": "FoodBridge – Share Food, Spread Hope",
+  "description": "A community-based food donation platform connecting restaurants, donors, NGOs, and volunteers to eliminate food wastage and nourish people in need.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
